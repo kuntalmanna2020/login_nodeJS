@@ -1,0 +1,89 @@
+/* body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.container-x
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    animation: animate 16s ease-in-out infinite;
+    background-size: cover;
+}
+.outer
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0,0,0, 0.5);
+}
+@keyframes animate 
+{
+    0%,100%
+    {
+        background-image:url('/public/images/pexels-josh-hild-2422461.jpg')
+    
+    }
+    15%
+    {
+        background-image:url('/public/images/pedro-lastra-suRvdiwP9Pk-unsplash.jpg')
+
+    }
+    30%
+    {
+        background-image: url('/public/images/pexels-johannes-plenio-1103970.jpg');
+        background-image: url('/public/images/tina-rolf-yuF2B5Zyz88-unsplash.jpg');
+        /* background-image: url('/public/images/wil-stewart-TWmzRkpXUCg-unsplash.jpg'); */
+        /* background-image: url('/public/images/wil-stewart-TWmzRkpXUCg-unsplash.jpg');
+
+
+
+    }
+    45%
+    {
+        background-image: url('/public/images/pexels-pixabay-235990.jpg');
+
+    }
+
+
+
+
+    
+}
+
+
+
+.fa-google {
+    background: 
+      linear-gradient(to bottom left,transparent 49%,#fbbc05 50%) 0 25%/48% 40%,
+      linear-gradient(to top    left,transparent 49%,#fbbc05 50%) 0 75%/48% 40%,
+    
+      linear-gradient(-40deg ,transparent 53%,#ea4335 54%),
+      linear-gradient( 45deg ,transparent 46%,#4285f4 48%),
+      #34a853;
+    background-repeat:no-repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+  div .link
+  {
+      background-color: #000000;
+  }
+
+  .x 
+  {
+      background-color: #34a853;
+      padding-bottom: 63px;
+  }  */
+
